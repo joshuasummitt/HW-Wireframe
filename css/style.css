@@ -1,0 +1,40 @@
+*{box-sizing: border-box;}
+
+.content-block{
+  text-align: center;
+  padding: 10px;
+  border: 3px solid;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 5px;
+  color: #ebebeb;
+  font-family: "Arial", "helvetica neue", "helvetica", "san-serif";
+
+}
+
+.header{
+  clear: both
+}
+body {
+  background-color: #777;
+  width: 960px;
+}
+
+nav{
+}
+
+section {
+  width: 60%;
+  display : inline-block;
+  width: 495px;
+}
+
+aside {
+  width: 33%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+footer {
+  clear: both
+}
